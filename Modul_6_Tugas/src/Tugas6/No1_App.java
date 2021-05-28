@@ -1,6 +1,6 @@
 package Tugas6;
-public class No1App {
-     public static void main (String[] args){
+public class No1_App {
+    public static void main (String[] args){
         No1 tumpukan = new No1(5);
         tumpukan.push(50);
         tumpukan.baca();
@@ -31,5 +31,5 @@ public class No1App {
         
         System.out.println();
         System.out.println("R. Rekyan Maulana Setyawan");
-        }   
+        }
 }

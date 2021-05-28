@@ -31,5 +31,5 @@ public void baca(){
         System.out.print(" ");
         i--;
     }
-}    
+}
 }
